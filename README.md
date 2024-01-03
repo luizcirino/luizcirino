@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Luiz Gustavo</h1>
 <h3 align="center">Estudante de Dados, e apaixonado pela área!</h3>
 
-- 🔭 Atualmente estou trabalhando como vendedor de varejo, mas estudando em fundo a área de Dados! [Dashboard de SAC](https://app.powerbi.com/view?r=eyJrIjoiNzVlMDlmNjQtMjgwOS00MTQzLTk1MGUtNjk1N2M1OTRjM2VlIiwidCI6IjdkZWU5YmZmLWNlMjMtNGE4ZC1hNGExLTdiYjQyNjY5NjA3YiJ9)
+- 🔭 Atualmente estou trabalhando como SDR, mas estudando em fundo a área de Dados! [Dashboard de SAC](https://app.powerbi.com/view?r=eyJrIjoiNzVlMDlmNjQtMjgwOS00MTQzLTk1MGUtNjk1N2M1OTRjM2VlIiwidCI6IjdkZWU5YmZmLWNlMjMtNGE4ZC1hNGExLTdiYjQyNjY5NjA3YiJ9)
 
 - 🌱 Atualmente estou aprendendo **Python, Power Bi e SQL**
 
