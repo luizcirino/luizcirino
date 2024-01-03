@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do e-mail **luizgustavovieirati@gmail.com**
 
-- 📄 Fui auxiliar administrativo e recepcionista na Câmara Municipal de SP, atuei também como analista de pré-vendas na Ultima School e atualmente atuo como vendedor de varejo! [https://www.linkedin.com/in/luiz-gustavo-cirino-vieira-87a860235/](https://www.linkedin.com/in/luiz-gustavo-cirino-vieira-87a860235/)
+- 📄 Fui auxiliar administrativo e recepcionista na Câmara Municipal de SP, atuei também como analista de pré-vendas na Ultima School e atualmente atuo como SDR! [https://www.linkedin.com/in/luiz-gustavo-cirino-vieira-87a860235/](https://www.linkedin.com/in/luiz-gustavo-cirino-vieira-87a860235/)
 
 - ⚡ Descobri que passo mais tempo limpando dados do que meu gato passa lambendo suas patas! Quem diria que a vida de um estudante de análise de dados envolveria tanto 'limpar a sujeira'. **Eu acho que sou engraçado kkkkk...**
 
